@@ -1,0 +1,16 @@
+F:\CSharp\TerminalHacking\TerminalHacking\bin\Debug\netcoreapp3.1\TerminalHacking.exe
+F:\CSharp\TerminalHacking\TerminalHacking\bin\Debug\netcoreapp3.1\TerminalHacking.deps.json
+F:\CSharp\TerminalHacking\TerminalHacking\bin\Debug\netcoreapp3.1\TerminalHacking.runtimeconfig.json
+F:\CSharp\TerminalHacking\TerminalHacking\bin\Debug\netcoreapp3.1\TerminalHacking.runtimeconfig.dev.json
+F:\CSharp\TerminalHacking\TerminalHacking\bin\Debug\netcoreapp3.1\TerminalHacking.dll
+F:\CSharp\TerminalHacking\TerminalHacking\bin\Debug\netcoreapp3.1\TerminalHacking.pdb
+F:\CSharp\TerminalHacking\TerminalHacking\obj\Debug\netcoreapp3.1\TerminalHacking.csproj.AssemblyReference.cache
+F:\CSharp\TerminalHacking\TerminalHacking\obj\Debug\netcoreapp3.1\TerminalHacking.csproj.GenerateResource.cache
+F:\CSharp\TerminalHacking\TerminalHacking\obj\Debug\netcoreapp3.1\TerminalHacking.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\TerminalHacking\TerminalHacking\obj\Debug\netcoreapp3.1\TerminalHacking.AssemblyInfoInputs.cache
+F:\CSharp\TerminalHacking\TerminalHacking\obj\Debug\netcoreapp3.1\TerminalHacking.AssemblyInfo.cs
+F:\CSharp\TerminalHacking\TerminalHacking\obj\Debug\netcoreapp3.1\TerminalHacking.csproj.CoreCompileInputs.cache
+F:\CSharp\TerminalHacking\TerminalHacking\obj\Debug\netcoreapp3.1\TerminalHacking.dll
+F:\CSharp\TerminalHacking\TerminalHacking\obj\Debug\netcoreapp3.1\TerminalHacking.pdb
+F:\CSharp\TerminalHacking\TerminalHacking\obj\Debug\netcoreapp3.1\TerminalHacking.genruntimeconfig.cache
+F:\CSharp\TerminalHacking\TerminalHacking\obj\Debug\netcoreapp3.1\TerminalHacking.GuessPinCode.resources
